@@ -47,7 +47,7 @@ This is the path I'm taking to learn Machine Learning from 0
 
 ```
 
-Technology is at the point where the snowball effect is obvious and undeniably apparent.
+
 
 
 
