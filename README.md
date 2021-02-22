@@ -1,3 +1,5 @@
+This is generally a summarization on why I'm hopeful for our futures regarding the exponential change in tech and the rollercoaster that we are all on.  
+
 - Neuralink [The Website](https://neuralink.com/), [Summary video](https://www.youtube.com/watch?v=9uRK8Delzvk&t=389s)
 - - Other BCI's include - [Optogenetics](https://www.youtube.com/watch?v=enFgn2sqoGw&t=373s) and [stentrode BCI's](https://www.youtube.com/watch?v=Wno70ZGKJvw&t=2s) and [open BCI](https://www.youtube.com/watch?v=TMeJyrPmwwM&t=722s), [Video on what electrodes in the brain can do](https://www.youtube.com/watch?v=7udZ5ux0dYE&t=665s), [This is a long but great article about Neuralink that's worth the read](https://waitbutwhy.com/2017/04/neuralink.html)
 - Teslas [Link](https://www.tesla.com/model3)
